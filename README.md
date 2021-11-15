@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" align="left" alt="redux" width="26" height="26"/>
 
 
-### 📫 How to reach me: ...
+### 📫 How to reach me:
  Gmail: joacotrovato@gmail.com 
  
  Phone: +54 9 3586015821 
