@@ -3,7 +3,7 @@
 ### I'm a Young Man, Developer and Teacher !!!
 
 - 🔭 I just finished my first Full Stack course!
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning more technologies
 - 👯 I’m looking to work in an innovative and challenging team
 - ⚡ Fun fact: I love stand up, I practice Weightlifting and study more programming technologies
 
